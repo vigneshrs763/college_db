@@ -1,0 +1,10 @@
+{
+  "description": "A campus maintenance portal where students submit and track repair requests while administrators manage assignments, updates, and facility reports.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
